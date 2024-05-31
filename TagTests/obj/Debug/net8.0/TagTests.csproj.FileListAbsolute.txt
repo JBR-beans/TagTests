@@ -1,0 +1,14 @@
+D:\Code Repo\TagTests_Solution\TagTests\bin\Debug\net8.0\TagTests.exe
+D:\Code Repo\TagTests_Solution\TagTests\bin\Debug\net8.0\TagTests.deps.json
+D:\Code Repo\TagTests_Solution\TagTests\bin\Debug\net8.0\TagTests.runtimeconfig.json
+D:\Code Repo\TagTests_Solution\TagTests\bin\Debug\net8.0\TagTests.dll
+D:\Code Repo\TagTests_Solution\TagTests\bin\Debug\net8.0\TagTests.pdb
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.AssemblyInfoInputs.cache
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.AssemblyInfo.cs
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.csproj.CoreCompileInputs.cache
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.dll
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\refint\TagTests.dll
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.pdb
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\TagTests.genruntimeconfig.cache
+D:\Code Repo\TagTests_Solution\TagTests\obj\Debug\net8.0\ref\TagTests.dll
